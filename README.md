@@ -5,7 +5,6 @@ I am Riddhima Singh. I am enthusiastic about Machine Learning and Data Science. 
 - 🔭 I’m currently working on an ML project.
 - 🌱 I’m currently learning **Machine Learning on Azure**.
 - 👯 I’m looking to collaborate on interesting **AI and ML Projects**.
-- 🤔 I’m looking for help with **Deep Learning**.
 - 💬 Ask me about **Data Analytics, Predictive Analytics**.
 - 📫 How to reach me: Contact me on [LinkedIn](www.linkedin.com/in/rid10) or through [E-mail](me.riddhimasingh@gmail.com).
 - 😄 Pronouns: You can give one.
