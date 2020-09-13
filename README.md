@@ -9,4 +9,4 @@ I am Riddhima Singh. I am enthusiastic about Machine Learning and Data Science. 
 - 📫 How to reach me: Contact me on [LinkedIn](www.linkedin.com/in/rid10) or through [E-mail](me.riddhimasingh@gmail.com).
 - 😄 Pronouns: You can give one.
 - ⚡ Fun fact: I can work with~out~ music.
--->
+
